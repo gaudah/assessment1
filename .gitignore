@@ -1,0 +1,13 @@
+## NodeJs
+node_modules
+package-lock.json
+
+# Environment files
+*.env
+
+# IDE files
+.vscode
+
+# Downloaded files
+files
+
